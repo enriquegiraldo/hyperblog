@@ -5,3 +5,5 @@ bogota feliz feliz
   
   git status
 hoy hablaremos de su historia
+
+es un buen estudiante de programacion
