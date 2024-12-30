@@ -1,5 +1,7 @@
 este es la historia de Enrique Giraldo 
 
-Enrique Tiene 43 anhos y nacio en colombia 
-
+Enrique Tiene 43 anhos y nacio en colombia y vive en 
+bogota feliz feliz
+  
+  git status
 hoy hablaremos de su historia
