@@ -9,7 +9,7 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
-* vreadoe n un buen curso de p[latzzi ]
+* vreadoe n un buen curso de platzi team
 * incliye ejemplos en windows linux y mac
 * y como usarlo en proyectos de desarrollo disonible para todas las edades 
 
