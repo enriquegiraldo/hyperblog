@@ -35,11 +35,12 @@ body
 #container
 {
     width: 70%;
-    padding: 0;
-    padding: 0;
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
+    max-width: 1200px; /* o el ancho máximo que prefieras */
+    padding: 0 20px;
+    box-sizing: border-box;
 }
 
 #container h1
@@ -51,6 +52,10 @@ body
     background: white;
     padding: 1em;
 }
+#post article {
+    width: 100%;
+    box-sizing: border-box;
+}
 
 #footer
 {
@@ -60,4 +65,26 @@ body
     padding: 0.5em;
 }
 
+
+figure {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 100%;
+}
+
+figure a {
+    display: block;
+    width: 100%;
+}
+
+figure img {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    display: block;
+    border: none; /* Para quitar el border='0' del HTML */
+}
+
+/* Asegurar que el artículo también es responsivo */
 
