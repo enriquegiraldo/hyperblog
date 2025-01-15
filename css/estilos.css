@@ -83,7 +83,7 @@ figure img {
     height: auto;
     max-width: 100%;
     display: block;
-    border: none; /* Para quitar el border='0' del HTML */
+    border: none;
 }
 
 /* Asegurar que el artículo también es responsivo */
